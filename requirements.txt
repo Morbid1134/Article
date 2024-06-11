@@ -1,0 +1,5 @@
+argparse
+pydub
+moviepy
+faster-whisper
+langchain_community
